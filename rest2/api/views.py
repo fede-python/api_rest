@@ -1,3 +1,5 @@
+#esto es solo ua prueba para GIT
+
 from django.shortcuts import render
 from rest_framework.decorators import api_view
 from .models import student
